@@ -3,6 +3,9 @@
 An intelligent job application automation system that scrapes job postings, tailors resumes and cover letters using AI, and manages applications with sophisticated filtering and tracking. Inspired by the desire to automate majority of the steps in my job search workflow which I believe many others may also find useful.
 If you would like to contribute to this project please email me: demilade_odumosu@outlook.com || thefitprogrammer@gmail.com 
 
+## License
+This project is licensed under a custom license. Public use is permitted for personal use / reference only. Redistribution, modification, or commercial use is prohibited without permission. See [LICENSE](./LICENSE) for details.
+
 ## Features
 
 - **Smart Job Filtering**: Automatically filters jobs based on location and visa sponsorship requirements
