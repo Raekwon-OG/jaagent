@@ -1,0 +1,49 @@
+# Core dependencies
+openai>=1.12.0
+python-docx
+docx2pdf
+python-dotenv
+
+# Google API dependencies
+gspread
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+google-api-python-client
+
+# Web scraping dependencies
+beautifulsoup4
+requests
+selenium
+webdriver-manager
+lxml
+
+# Data processing dependencies
+pandas
+numpy
+python-dateutil
+
+# Machine learning dependencies for role detection
+# Note: sentence-transformers will install compatible torch version
+# sentence-transformers   # commented out to avoid heavy torch dependency; using OpenAI embeddings instead
+scikit-learn
+
+# Utility dependencies
+tqdm
+pathlib2
+
+# Encryption and security (for PII protection)
+cryptography
+
+# File handling dependencies
+chardet
+
+# Logging
+loguru
+
+# Platform-specific dependencies
+# Windows PDF conversion fallback
+comtypes>=1.2.0; sys_platform == "win32"
+
+# Linux/Mac dependencies  
+python-magic-bin>=0.4.14; sys_platform == "win32"

@@ -1,0 +1,19 @@
+{
+  "session_stats": {
+    "total_scraped": 0,
+    "total_processed": 3,
+    "successful_applications": 0,
+    "ignored_role_unknown": 0,
+    "ignored_work_permit": 0,
+    "ignored_low_fit": 0,
+    "ignored_duplicate": 3,
+    "session_start_time": "2025-10-10T03:36:06.248958",
+    "session_end_time": "2025-10-10T03:36:13.643481"
+  },
+  "configuration": {
+    "max_jobs_per_run": 5,
+    "applicant_country": "Nigeria",
+    "fit_score_threshold": 8.5
+  },
+  "processed_job_ids": []
+}

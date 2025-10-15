@@ -1,0 +1,23 @@
+{
+  "session_stats": {
+    "total_scraped": 0,
+    "total_processed": 3,
+    "successful_applications": 3,
+    "ignored_role_unknown": 0,
+    "ignored_work_permit": 0,
+    "ignored_low_fit": 0,
+    "ignored_duplicate": 0,
+    "session_start_time": "2025-09-26T02:30:04.919599",
+    "session_end_time": "2025-09-26T02:31:29.820755"
+  },
+  "configuration": {
+    "max_jobs_per_run": 5,
+    "applicant_country": "Nigeria",
+    "fit_score_threshold": 8.5
+  },
+  "processed_job_ids": [
+    "linkedin_demo_0_1758850209",
+    "linkedin_demo_1_1758850209",
+    "linkedin_demo_2_1758850209"
+  ]
+}

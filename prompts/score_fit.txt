@@ -1,0 +1,12 @@
+Evaluate the candidate's TAILORED RESUME against this JOB DESCRIPTION.
+
+Return a single JSON object with:
+- "score": number between 0 and 10 (one decimal), where 8.5+ indicates strong alignment
+- "gaps": array of the top 3–5 missing or weak requirements
+- "notes": one short sentence explaining the score
+
+JOB DESCRIPTION:
+{{JOB_DESCRIPTION}}
+
+TAILORED RESUME (summary + experience only):
+{{TAILORED_RESUME_TEXT}}

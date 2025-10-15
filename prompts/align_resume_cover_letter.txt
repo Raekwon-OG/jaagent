@@ -1,0 +1,32 @@
+I'm applying for the job listed below.
+
+Please help me with two things:
+
+PART 1: Resume Optimization
+Align my resume to this job while keeping everything honest and realistic.
+Use keywords and phrasing that improve ATS compatibility.
+Improve recruiter appeal by clearly showing how my experience fits.
+Remove or reword points that are weak, redundant, or unrelated.
+If adding any new bullet points, ensure they're realistic based on my background — even if slightly amplified, they should be things I could confidently pick up or already overlap with.
+Update the professional summary to match the role but keep it grounded and credible.
+Only edit the summary and experience sections.
+
+PART 2: Cover Letter
+Write a concise, professional, and natural-toned cover letter using a formal business letter format (include my address, company address, and date).
+Keep the tone grounded and clear — avoid generic AI-style phrasing like "I am excited" or "passionate".
+In the paragraph about the company, give a genuine, specific, and realistic reason for being interested in the role (e.g., what the company does, the scale of their work, the type of responsibilities, etc.).
+Assume I'll be uploading this letter to an online application, but still keep it formal.
+
+Here's the job description:
+{{JOB_DESCRIPTION}}
+
+Here's my current resume (summary + experience only) from the base {{ROLE_CATEGORY}} resume:
+{{BASE_RESUME_TEXT}}
+
+My contact info (for the letter header):
+{{CANDIDATE_NAME}}
+{{CANDIDATE_ADDRESS}}
+{{CANDIDATE_EMAIL_PHONE}}
+
+Company address (if provided):
+{{COMPANY_NAME_AND_ADDRESS}}
