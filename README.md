@@ -27,8 +27,8 @@ This project is licensed under a custom license. Public use is permitted for per
 
 1. **Clone or download the project**:
 ```bash
-git clone <repository-url>
-cd job_application_agent
+git clone https://github.com/Raekwon-OG/jaagent.git
+cd jaagent
 ```
 
 2. **Install dependencies**:
